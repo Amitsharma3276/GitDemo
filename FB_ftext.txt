@@ -1,2 +1,2 @@
 first branch txt file
-This is my modification
+Modified
